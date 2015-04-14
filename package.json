@@ -1,0 +1,24 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "template for creating nodejs cli programs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "template"
+  ],
+  "author": "Ryan Rankin",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "chalk": "^1.0.0",
+    "cli-spinner": "^0.2.0",
+    "colors": "^1.0.3",
+    "commander": "^2.7.1",
+    "open": "0.0.5"
+  }
+}
